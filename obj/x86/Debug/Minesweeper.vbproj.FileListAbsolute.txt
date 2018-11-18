@@ -1,0 +1,48 @@
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\obj\x86\Debug\Minesweeper.Form1.resources
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\obj\x86\Debug\Minesweeper.Resources.resources
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\obj\x86\Debug\Minesweeper.vbproj.GenerateResource.Cache
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\bin\Debug\Minesweeper.xml
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\obj\x86\Debug\Minesweeper.exe
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\obj\x86\Debug\Minesweeper.xml
+C:\Users\StephSako\AppData\Local\Temporary Projects\Minesweeper\obj\x86\Debug\Minesweeper.pdb
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.exe
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.xml
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.pdb
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.xml
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Form1.resources
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Resources.resources
+C:\Users\StephSako\documents\visual studio 2010\Projects\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.vbproj.GenerateResource.Cache
+E:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.exe
+E:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.xml
+E:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.pdb
+E:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Form1.resources
+E:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Resources.resources
+E:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.vbproj.GenerateResource.Cache
+E:\travail\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+E:\travail\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+E:\travail\Minesweeper\Minesweeper\bin\Debug\Minesweeper.xml
+F:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.exe
+F:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.xml
+F:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.pdb
+F:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Form1.resources
+F:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Resources.resources
+F:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.vbproj.GenerateResource.Cache
+F:\travail\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+F:\travail\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+F:\travail\Minesweeper\Minesweeper\bin\Debug\Minesweeper.xml
+F:\travail\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Difficulté.resources
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.exe
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.xml
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.pdb
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\bin\Debug\Minesweeper.xml
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Difficulté.resources
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Form1.resources
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Resources.resources
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.vbproj.GenerateResource.Cache
+C:\Users\StephSako\Documents\DOCUMENTS\PROJETS\PROJET PERSONNELS\MINESWEEPER\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.ScoresAffiche.resources
